@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Jalal Ahamad
 
-<h3 align="center">Senior Frontend Developer | Vue.js | Ionic | JavaScript | TypeScript</h3>
+<h3>Frontend Developer | React.js | Vue.js | TypeScript | Tailwind CSS</h3>
 
-<p align="center">
+<p>
 Building scalable, responsive, and high-performance web & mobile applications.
 </p>
 
@@ -14,12 +14,12 @@ I'm a **Senior Frontend Developer** from **Bangladesh** with **8+ years of profe
 
 I enjoy transforming UI/UX designs into clean, maintainable, and scalable applications using modern frontend technologies.
 
-- 🔭 Currently working as **Senior Software Engineer (Frontend)**
+- 🔭 Currently working as **Senior Frontend Engineer**
 - 💙 Specialized in **Vue.js**, **Ionic Framework**, and modern JavaScript
-- 🌱 Currently learning **Nuxt.js**, **TypeScript**, **Node.js**, and **AI integrations**
+- 🌱 Currently learning **React.js**, **TypeScript**, **Node.js**, and **AI integrations**
 - 💬 Ask me about **Vue.js, Ionic, JavaScript, HTML, CSS, Tailwind CSS**
 - ⚡ Passionate about UI Engineering, Performance Optimization, and Clean Code
-
+s
 ---
 
 # 🚀 Tech Stack
@@ -36,11 +36,6 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
----
-
-## Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
@@ -88,19 +83,6 @@ Responsive shopping platform with modern UI.
 - Authentication
 - Shopping Cart
 - Checkout
-
----
-
-## 🧩 Vue Component Library
-
-Reusable Vue UI components.
-
-- Modal
-- Tabs
-- Accordion
-- Date Picker
-- Dropdown
-- Cards
 
 ---
 
