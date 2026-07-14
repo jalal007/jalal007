@@ -110,30 +110,6 @@ Developed and customized multiple business websites with Elementor and ACF.
 
 ---
 
-# 📈 GitHub Statistics
-
-> Replace `YOUR_USERNAME` with your GitHub username.
-
-### GitHub Stats
-
-```text
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark
-```
-
-### Top Languages
-
-```text
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark
-```
-
-### GitHub Streak
-
-```text
-https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark
-```
-
----
-
 # 🌱 Currently Learning
 
 - Nuxt.js
@@ -194,11 +170,11 @@ https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=githu
 
 # 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: jalalahamad007@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://linkedin.com/in/jalalahamad
 
-🌐 Portfolio: https://yourportfolio.com
+🌐 Portfolio: https://jalalahamad.com
 
 ---
 
