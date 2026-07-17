@@ -8,20 +8,20 @@ Building scalable, responsive, and high-performance web & mobile applications.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Senior Frontend Developer** from **Bangladesh** with **8+ years of professional experience** building modern web applications and cross-platform mobile apps.
 
 I enjoy transforming UI/UX designs into clean, maintainable, and scalable applications using modern frontend technologies.
 
-- 🔭 Currently working as **Senior Frontend Developer**
-- 💙 Specialized in **React.js**, **Vue.js**, **Tailwind CSS**
-- 🌱 Currently learning **Next.js**, **Node.js** and **AI integrations**
-- 💬 Ask me about **Vue.js, React.js, Ionic, JavaScript, HTML, CSS, Tailwind CSS**
-- ⚡ Passionate about UI Engineering, Performance Optimization, and Clean Code
+-  Currently working as **Senior Frontend Developer**
+-  Specialized in **React.js**, **Vue.js**, **Tailwind CSS**
+-  Currently learning **Next.js**, **Node.js** and **AI integrations**
+-  Ask me about **Vue.js, React.js, Ionic, JavaScript, HTML, CSS, Tailwind CSS**
+-  Passionate about UI Engineering, Performance Optimization, and Clean Code
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,9 +55,9 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 
 ---
 
-# 💼 Featured Projects
+#  Featured Projects
 
-## 📱 Flight Booking App
+##  Flight Booking App
 
 Cross-platform mobile application built using Ionic Vue.
 
@@ -69,50 +69,29 @@ Cross-platform mobile application built using Ionic Vue.
 
 ---
 
-## 🌐 WordPress Websites
+##  WordPress Websites
 
 Developed and customized multiple business websites with Elementor and ACF.
 
 ---
 
-# 🌱 Currently Learning
-
-- Next.js
-- TypeScript
-- Node.js
-- AI APIs
-- Performance Optimization
-- System Design
-
----
-
-# 💡 What I Do
+#  What I Do
 
 ✔ Responsive Web Development
-
 ✔ Cross-platform Mobile Apps
-
 ✔ React.js Development
-
 ✔ Vue.js Development
-
 ✔ Ionic Development
-
 ✔ REST API Integration
-
 ✔ UI/UX Implementation
-
 ✔ Performance Optimization
-
 ✔ Cross-browser Compatibility
-
 ✔ Mobile-first Design
-
 ✔ Clean & Maintainable Code
 
 ---
 
-# 📚 Currently Working With
+#  Currently Working With
 
 - React
 - Ionic Vue
@@ -123,7 +102,7 @@ Developed and customized multiple business websites with Elementor and ACF.
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 📧 Email: jalalahamad007@gmail.com
 
@@ -133,7 +112,7 @@ Developed and customized multiple business websites with Elementor and ACF.
 
 ---
 
-# ⚡ Fun Facts
+#  Fun Facts
 
 💙 I enjoy turning UI designs into production-ready applications.
 
