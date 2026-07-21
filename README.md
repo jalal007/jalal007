@@ -21,7 +21,7 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 -  Passionate about UI Engineering, Performance Optimization, and Clean Code
 ---
 
-#  Tech Stack
+##  Language and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,24 +34,10 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## CMS
-
-- WordPress
-- Elementor
-- ACF
-
----
-
-## Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -69,12 +55,6 @@ Cross-platform mobile application built using Ionic Vue.
 
 ---
 
-##  WordPress Websites
-
-Developed and customized multiple business websites with Elementor and ACF.
-
----
-
 #  What I Do
 
 ✔ Responsive Web Development
@@ -82,7 +62,6 @@ Developed and customized multiple business websites with Elementor and ACF.
 ✔ React.js Development
 ✔ Vue.js Development
 ✔ Ionic Development
-✔ REST API Integration
 ✔ UI/UX Implementation
 ✔ Performance Optimization
 ✔ Cross-browser Compatibility
@@ -98,7 +77,6 @@ Developed and customized multiple business websites with Elementor and ACF.
 - JavaScript (ES6+)
 - TypeScript
 - Tailwind CSS
-- GitHub Actions
 
 ---
 
@@ -107,20 +85,6 @@ Developed and customized multiple business websites with Elementor and ACF.
 📧 Email: jalalahamad007@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/jalalahamad
-
-🌐 Portfolio: https://jalalahamad.com
-
----
-
-#  Fun Facts
-
-💙 I enjoy turning UI designs into production-ready applications.
-
-☕ Coffee and coding make a great combination.
-
-🚀 I love learning new frontend technologies.
-
-🎯 Clean code is always my priority.
 
 ---
 
