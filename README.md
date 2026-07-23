@@ -8,7 +8,7 @@ Building scalable, responsive, and high-performance web & mobile applications.
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 I'm a **Senior Frontend Developer** from **Bangladesh** with **8+ years of professional experience** building modern web applications and cross-platform mobile apps.
 
@@ -21,7 +21,7 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 -  Passionate about UI Engineering, Performance Optimization, and Clean Code
 ---
 
-##  Language and Tools
+## 🛠 Language and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,7 +41,22 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 
 ---
 
-#  Featured Projects
+## 💼 Professional Portfolio
+
+Here are some of the production applications I've contributed to:
+
+| Project | Description |
+|---------|-------------|
+| 🌐 **Audra Security** | Advanced digital security service platform. <br> 🔗 https://audrasecurity.com |
+| 🎓 **Ghoori Learning** | Scalable and interactive e-learning platform. <br> 🔗 https://ghoorilearning.com |
+| 🌍 **Carnival Internet** | Enterprise broadband and digital service portal. <br> 🔗 https://carnival.com.bd |
+| 💬 **Carnival Care** | Customer support and utility management system. <br> 🔗 https://carnivalcare.com |
+| 🚀 **Agrani App** | Modern web application ecosystem. <br> 🔗 https://agrani-app.dotlines.com.sg |
+| 🌏 **CLTP Web** | High-performance localized web platform. <br> 🔗 https://cltp-web.dotlines.com.sg |
+
+---
+
+# ⭐ Featured Projects
 
 ##  Flight Booking App
 
@@ -55,32 +70,7 @@ Cross-platform mobile application built using Ionic Vue.
 
 ---
 
-#  What I Do
-
-✔ Responsive Web Development
-✔ Cross-platform Mobile Apps
-✔ React.js Development
-✔ Vue.js Development
-✔ Ionic Development
-✔ UI/UX Implementation
-✔ Performance Optimization
-✔ Cross-browser Compatibility
-✔ Mobile-first Design
-✔ Clean & Maintainable Code
-
----
-
-#  Currently Working With
-
-- React
-- Ionic Vue
-- JavaScript (ES6+)
-- TypeScript
-- Tailwind CSS
-
----
-
-#  Let's Connect
+# 📫 Let's Connect
 
 📧 Email: jalalahamad007@gmail.com
 
