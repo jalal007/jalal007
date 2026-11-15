@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jalal Ahamad
 
-<h3>Frontend Developer | React.js | Vue.js | TypeScript | Tailwind CSS</h3>
+<h3>Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS</h3>
 
 <p>
 Building scalable, responsive, and high-performance web & mobile applications.
@@ -15,9 +15,9 @@ I'm a **Senior Frontend Developer** from **Bangladesh** with **8+ years of profe
 I enjoy transforming UI/UX designs into clean, maintainable, and scalable applications using modern frontend technologies.
 
 -  Currently working as **Senior Frontend Developer**
--  Specialized in **React.js**, **Vue.js**, **Tailwind CSS**
--  Currently learning **Next.js**, **Node.js** and **AI integrations**
--  Ask me about **Vue.js, React.js, Ionic, JavaScript, HTML, CSS, Tailwind CSS**
+-  Specialized in **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**
+-  Currently learning **Node.js** and **AI integrations**
+-  Ask me about **React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS**
 -  Passionate about UI Engineering, Performance Optimization, and Clean Code
 ---
 
@@ -28,8 +28,6 @@ I enjoy transforming UI/UX designs into clean, maintainable, and scalable applic
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
